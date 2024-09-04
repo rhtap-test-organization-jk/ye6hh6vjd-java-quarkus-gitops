@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ye6hh6vjd-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ye6hh6vjd-java-quarkus-gitops
